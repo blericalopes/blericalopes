@@ -1,4 +1,4 @@
-![](https://github.com/blericalopes/blericalopes/blob/main/%C3%8Dcones%20e%20imagens/CAPA.png)
+![]()
 
 * * *
 
@@ -21,4 +21,4 @@
 <img align="left" height="20" src="https://github.com/blericalopes/blericalopes/blob/main/%C3%8Dcones%20e%20imagens/react.svg">
 <img align="left" height="20" src="https://github.com/blericalopes/blericalopes/blob/main/%C3%8Dcones%20e%20imagens/html.svg">
 <img align="left" height="20" src="https://github.com/blericalopes/blericalopes/blob/main/%C3%8Dcones%20e%20imagens/github.svg">
-<img align="left" height="30" src="">
+
