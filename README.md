@@ -10,7 +10,7 @@
 - 💻 Desenvolvedora desde 2022
 - ⚛️ JavaScript | NodeJS | React | CSS | HTML
 
-- 📫 Onde me encontrar:[linkedIn](https://www.linkedin.com/in/blericalopes/), [instagram](https://www.instagram.com/blericalopes/) 
+- 📫 Onde me encontrar: [linkedIn](https://www.linkedin.com/in/blericalopes/), [instagram](https://www.instagram.com/blericalopes/).
 
 
 
