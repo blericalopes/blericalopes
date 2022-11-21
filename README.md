@@ -1,4 +1,4 @@
-![](https://github.com/blericalopes/blericalopes/blob/main/%C3%8Dcones%20e%20imagens/Capa.png)
+
 
 * * *
 
