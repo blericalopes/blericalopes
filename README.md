@@ -4,7 +4,7 @@
 
 **Sobre mim:**
 - 💻 Desenvolvedora desde 2022
-- ⚛️ JavaScript | NodeJS | React | CSS | HTML
+- ⚛️ JavaScript | React | Node.js | CSS | HTML
 
 - 📫 Onde me encontrar: [linkedIn](https://www.linkedin.com/in/blericalopes/), [instagram](https://www.instagram.com/blericalopes/).
 
